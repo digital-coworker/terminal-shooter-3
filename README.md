@@ -1,13 +1,8 @@
 # TERMINAL SHOOTER 3
 
-<div align="center">
-
-![Dark Mode](screenshots/dark.png)
-![Light Mode](screenshots/light.png)
-
 **A minimal vertical shooter. Press any key. Play.**
 
-</div>
+→ **[PLAY NOW](https://digital-coworker.github.io/terminal-shooter-3/)**
 
 ---
 
@@ -17,7 +12,7 @@
 |-----|--------|
 | `←` `→` `↑` `↓` | Move |
 | `SPACE` | Fire |
-| `☀/☾` | Toggle theme |
+| `☀/☾` | Toggle dark/light theme |
 
 ## Power-ups
 
@@ -34,15 +29,10 @@
 
 - **Instant play** — no menus, no modes. Press any key.
 - **Dark & light themes** — toggle persists across sessions.
-- **Progressive difficulty** — enemies get faster, tougher, and more numerous.
-- **8-bit chiptune** — generated live with Web Audio API. Tempo accelerates with each wave.
-- **Screen shake** — hit feedback.
-- **Scanlines** — terminal aesthetic.
+- **Progressive difficulty** — enemies get faster, tougher, more numerous per wave.
+- **8-bit chiptune** — live Web Audio API square-wave synthesis. Tempo accelerates with difficulty.
+- **Screen shake**, **particle effects**, **scanlines** — terminal aesthetic.
 - **Power-up system** — inspired by Raiden, 1942, Truxton, TwinBee, Ikaruga, Mushihimesama.
-
-## Play
-
-https://digital-coworker.github.io/terminal-shooter-3
 
 ## Tech
 
